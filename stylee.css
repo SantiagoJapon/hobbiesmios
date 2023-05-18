@@ -1,0 +1,26 @@
+body{
+    background-color: #ACE ;
+    max-width: 1000px;
+    margin: auto;
+}
+
+h1{
+    color: #000000;
+    font-size: 24px;
+}
+
+p{
+    color: #F07857;
+    font-size: 16px;
+}
+
+.contenedor{
+    max-width: 60%;
+    margin:0 auto;
+}
+
+.graficos{
+    max-width: 80%;
+    margin: 5; 
+}
+
